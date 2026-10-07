@@ -1,0 +1,23 @@
+# Entorno virtual de Python
+.venv/
+
+# Dependencias de Node
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+
+# Base de datos SQLite
+*.db
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
